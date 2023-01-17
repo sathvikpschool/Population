@@ -1,10 +1,10 @@
 import java.util.List;
 /**
- * We have a list of	over	30,000	USA	cities	and	their	populations.	It	would	be	helpful	if	the	data	could	be	sorted	in	different	
-and	helpful	ways	to	answer	important	questions.	Some	sample	queries:	"What	are	the	most	populous	cities	in	USA"	or	
-"What	are	the	most	populous	cities	in	a	chosen	state?"	or	"What	states	in	the	USA	have	a	city	named	Springfield?"
-In	this	project,	you	will	create	a	database	from	the	list	of	USA	cities	and	sort	the	data.	You	will	sort	the	data	for	
-population	and	city	name	using	Selection	Sort,	Insertion	Sort,	and	Merge	Sort.
+ * We have a list of over 30,000 USA cities and their populations. It would	be helpful if the data could be sorted  different	
+and helpful ways to answer important questions. Some sample queries: "What are the most populous cities in USA" or	
+"What are the most populous cities in a chosen state?" or "What states in the USA have a city named Springfield?"
+In this project, you will create a database from the list of USA cities and sort the data. You will sort the data for	
+population and city name using Selection Sort, Insertion Sort, and Merge Sort.
  *
  *	Requires FileUtils and Prompt classes.
  *
